@@ -1,3 +1,50 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11094</md:content-id>  <md:title>Life Orientation Grade 4</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>4af4f855-1127-4639-a495-c2b9a0225561</md:uuid>
-<md:slug>life-orientation-grade-4</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m25155"/>                            <col:module document="m25159"/>                            <col:module document="m25162"/>                            <col:module document="m25164"/>                            <col:module document="m25186"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m25188"/>                            <col:module document="m25193"/>                            <col:module document="m25194"/>                            <col:module document="m25189"/>                            <col:module document="m25190"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m25191"/>                            <col:module document="m25192"/>                            <col:module document="m25199"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m25195"/>                            <col:module document="m25196"/>                            <col:module document="m25197"/>                            <col:module document="m25198"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11094</md:content-id>
+    <md:title>Life Orientation Grade 4</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>4af4f855-1127-4639-a495-c2b9a0225561</md:uuid>
+    <md:slug>life-orientation-grade-4</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m25155"/>
+        <col:module document="m25159"/>
+        <col:module document="m25162"/>
+        <col:module document="m25164"/>
+        <col:module document="m25186"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m25188"/>
+        <col:module document="m25193"/>
+        <col:module document="m25194"/>
+        <col:module document="m25189"/>
+        <col:module document="m25190"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m25191"/>
+        <col:module document="m25192"/>
+        <col:module document="m25199"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m25195"/>
+        <col:module document="m25196"/>
+        <col:module document="m25197"/>
+        <col:module document="m25198"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
